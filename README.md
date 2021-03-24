@@ -1,6 +1,6 @@
 ## Guia prático
 
-Este é um guia prático (não oficial da 42), com exemplos de estruturas utilizando a linguagem C com padrão de código requerido pela 42.
+Este é um guia prático (não oficial da 42), com exemplos de estruturas utilizando a linguagem C com padrão de código exigido pela 42.
 
 ## Links Uteis
 

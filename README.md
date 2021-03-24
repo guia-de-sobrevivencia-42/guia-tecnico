@@ -2,10 +2,10 @@
 
 Este é um guia prático (não oficial da 42), com exemplos de estruturas utilizando a linguagem C com padrão de código exigido pela 42.
 
-## Links Uteis
+## Links úteis
 
 ### Primeiros passos 
-Para quem tem pouca experiência  
+Para quem tem pouca experiência com desenvolvimento  
 [Comece por aqui](https://www.notion.so/Ambiente-de-desenvolvimento-c79af00323be4a5f9a84f6b6f544059c)  
 (Tutorial criado pelo wagnermaidson)
 
